@@ -26,3 +26,5 @@ https://laravel.com/docs/10.x/sail
   - `php artisan sail:install`
     - 0 = MySQL
   - `./vendor/bin/sail up`
+
+php artisan serve
